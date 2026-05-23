@@ -29,8 +29,7 @@ Chart Below shows corresponding port name for each connection:
 <img width="300" height="650" alt="App Screenshot" src="https://github.com/user-attachments/assets/97b7037d-415f-4f12-8ba1-ecab99a837a4" />
 
 [APK File](NKBLE210.apk)<br>
-Built with App Inventor. Application requires Bluetooth Connection<br>
-(todo: build apk with English UI)
+Built with App Inventor. Application requires Bluetooth Connection
 
 Supply power to the ESP32 module, connect with Bluetooth using [Scan Bluetooth] Button(Will be automatically scan and connect with the module)
 
@@ -49,3 +48,8 @@ Font(modified Gulim 12px and 18px bdf) Supports ASCII and few additional Latin C
 # Known Issues
 
 * Generated Barcode has issues and will not be read as proper Code-128 A Barcode
+
+# Todo
+
+* English UI version APK build
+* English UI version Arduino code
