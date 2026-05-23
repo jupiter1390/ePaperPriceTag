@@ -28,6 +28,7 @@ Chart Below shows corresponding port name for each connection:
 
 <img width="300" height="650" alt="App Screenshot" src="https://github.com/user-attachments/assets/97b7037d-415f-4f12-8ba1-ecab99a837a4" />
 
+[APK File](NKBLE210.apk)<br>
 Built with App Inventor. Application requires Bluetooth Connection<br>
 (todo: build apk with English UI)
 
