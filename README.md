@@ -37,7 +37,7 @@ Supply power to the ESP32 module, connect with Bluetooth using [Scan Bluetooth] 
 * [Random Barcode] will generate random 13-digit number for barcode data.
 * [Submit] Button will send the data to ESP32 module via Bluetooth Connection.
 
-Font(Gulim) Supports ASCII and few additional Latin Characters, Japansese(Hiragana and Katakana - not supported fully), and mainline Hangul Characters
+Font(modified Gulim 12px and 18px bdf) Supports ASCII and few additional Latin Characters, Japansese(Hiragana and Katakana - not supported fully), and mainline Hangul Characters
 
 # Required Arduino Libraries
 
